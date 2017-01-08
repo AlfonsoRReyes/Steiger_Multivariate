@@ -2,7 +2,8 @@
 rm(list=ls(all=TRUE))
 install.packages(c("matrixcalc","psych"))
 
-source("Steiger R library functions.txt")
+# source("Steiger R library functions.txt")
+source(file.path(getwd(),"functions","Steiger R Library Functions.txt"))
 library(matrixcalc)
 library(psych)
 

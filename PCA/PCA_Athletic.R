@@ -8,7 +8,7 @@ library(corrgram)
 library(ggplot2)
 
 # Load custom functions
-source(file.path(getwd(),"functions","Steiger R library functions.txt"))
+source(file.path(getwd(),"functions","Steiger R Library Functions.txt"))
 source(file.path(getwd(),"functions","AdvancedFactorFunctions.txt"))
 source(file.path(getwd(),"functions","fa.promax.R"))
 
